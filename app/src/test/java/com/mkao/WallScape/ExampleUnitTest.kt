@@ -1,4 +1,4 @@
-package com.mkao.greetingsapp
+package com.mkao.WallScape
 
 import org.junit.Test
 
